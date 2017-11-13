@@ -1,0 +1,16 @@
+#oof {
+    width: 500px ;
+    height: 500px;
+    border-radius: 250px;
+    border-color: White;
+    background-color: DarkRed;
+    font-size: 300px;
+  
+
+}
+
+body{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
