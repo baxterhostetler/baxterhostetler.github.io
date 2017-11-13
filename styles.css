@@ -1,0 +1,13 @@
+img {
+    width: 350px;
+    margin-top: 25px;
+}
+
+body {
+    color: salmon;
+    text-align: center;
+    font-size: 55px;
+    font-family:"Comic Sans MS";
+    background: url(pondering.jpeg);
+    background-size: 735px;
+}
